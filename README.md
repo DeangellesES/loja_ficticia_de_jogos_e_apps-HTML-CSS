@@ -1,7 +1,7 @@
 <h1>Projeto: Site para uma Loja de jogos e aplicativos</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto front-end de um site para uma Loja de jogos e aplicativos, desenvolvido para estudar e praticar CSS Grid e Responsividade</p>
+<p>Projeto front-end de um site fictício para uma Loja de jogos e aplicativos, desenvolvido para estudar e praticar CSS Grid e Responsividade</p>
 
 <h3>💻<a href="https://deangelleses.github.io/loja_ficticia_de_jogos_e_apps-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
